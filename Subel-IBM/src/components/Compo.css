@@ -1,0 +1,18 @@
+img{
+    height: 200px;
+    width: 200px;
+    object-fit: contain;
+
+}
+.card{
+    border:1px solid gray;
+    border-radius: 10px;
+    height: 180px;
+    width: 210px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    
+    
+}

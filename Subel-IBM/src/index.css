@@ -7,8 +7,22 @@
 body{
   height: 100%;
   width: 100%;
-  background-color: aliceblue;
+  background-color: rgb(149, 156, 163);
+  display: flex;
   justify-content: center;
   align-items: center;
+  
+}
+.container{
+  width: 100%;
+  height: 100%;
+  
   display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  gap: 30px;
+  flex-wrap: wrap;
+  
+  
 }

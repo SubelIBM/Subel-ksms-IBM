@@ -1,0 +1,62 @@
+.form-container {
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    background: lightgray;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    position: relative;
+  }
+  
+  .form-title {
+    text-align: center;
+    color: #333;
+  }
+  
+  .form-input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .form-button {
+    width: 100%;
+    padding: 10px;
+    background: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .error-text {
+    color: red;
+    font-size: 0.875em;
+  }
+  
+  .top-right-button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 8px 12px;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
+  .welcome-container {
+    text-align: center;
+    margin-top: 50px;
+    color: #333;
+    font-family: Arial, sans-serif;
+  }
+  
+  .welcome-text {
+    font-size: 2.5em;
+  }
+  
